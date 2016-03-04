@@ -1,0 +1,55 @@
+body {
+	background: url("images/small_steps.png");
+}
+
+.contact li {
+	//display: inline;
+	//text-transform: uppercase;
+	text-decoration: none;
+	
+}
+
+.container {
+	width: 60%;
+	margin: -10px auto;
+	background-color: #fff;
+	padding: 20px 100px;
+	font-family: 'Arimo', sans-serif; 
+}
+
+.date {
+	float: right; 
+}
+
+h1 {
+	font-family: 'Roboto Condensed', sans-serif; 
+	font-size: 3em;
+	margin: 0px auto; 
+}
+
+h2 {
+	color: 
+}
+
+h4 {
+	font-weight: 1000;
+}
+
+img {
+	float: right; 
+	border-radius: 50%;
+}
+
+li {
+	font-weight: 50;
+	font-size: .8em;
+}
+
+p {
+	font-size: .85em;
+	line-height: 120%;
+}
+
+ul {
+	//list-style-image: none;
+}
